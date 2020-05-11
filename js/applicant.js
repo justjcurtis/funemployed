@@ -1,4 +1,12 @@
 let traitsInUse = []
+    // var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+var w = window.innerWidth;
+
+var swiper = new Swiper('.swiper-container', {
+    slidesPerView: w <= 600 ? 1 : 3,
+    spaceBetween: 30,
+    centeredSlides: true
+});
 
 const getTrait = () => {
     if (traitsInUse.length < 1) {
@@ -26,6 +34,7 @@ const renderTraits = () => {
 
 document.getElementById("newTraits").addEventListener('click', e => {
     renderTraits();
+    swiper.slideTo(0, 500)
 });
 
 renderTraits();
