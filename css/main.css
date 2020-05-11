@@ -52,13 +52,13 @@ body {
 
 @media (min-width:360px) {
     .swiper-slide {
-        font-size: 5vw;
+        font-size: 3vw;
     }
 }
 
 @media (min-width:640px) {
     .swiper-slide {
-        font-size: 1.5vw;
+        font-size: 1.3vw;
     }
 }
 

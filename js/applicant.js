@@ -25,7 +25,7 @@ const setCardText = (number, text) => {
 }
 
 const renderTraits = () => {
-    let currentTraits = getTraits(4);
+    let currentTraits = getTraits(6);
     for(let i = 0; i< currentTraits.length; i++){
         setCardText(i+1, currentTraits[i]);
     }
