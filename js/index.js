@@ -6,5 +6,5 @@ var swiper = new Swiper('.swiper-container', {
     spaceBetween: 30,
     centeredSlides: true,
 });
-
+alert(window.innerWidth)
 swiper.slideTo(1, 250);
