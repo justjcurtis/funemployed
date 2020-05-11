@@ -1,6 +1,6 @@
 let jobsInUse = []
 
-var swiper = newSwiper();
+var swiper = newSwiper(0, false, true);
 
 const getJob = () => {
     if (jobsInUse.length < 1) {
