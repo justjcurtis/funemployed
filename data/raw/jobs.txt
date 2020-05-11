@@ -1,7 +1,12 @@
 a god
 a&e nurse
+accountant
+acrobat
 actor
+air hostess
 altar boy
+animal tracker
+apprentice shoemaker
 archaeologist
 architect
 artist
@@ -12,20 +17,29 @@ auctioneer
 author
 b-movie actor
 bachelor
+baker
 balloon artist
 barista
 bartender
 beard specialist
+bin man
 black market salesperson
+body guard
+bomb disposal expert
 bouncer
 bounty hunter
+brain surgeon
 buller
+burger van worker
+bus driver
 butcher
 butler
 candidate
 care assistant
 cat behaviour consultant
 celebrity impersonator
+ceo
+chauffeur
 cheerleader
 chef
 chicken sexer
@@ -36,7 +50,9 @@ community manager
 competitive eater
 construction worker
 counsellor
+dancer
 demon
+dentist
 dictator
 dinosaur supervisor
 diplomatic translator
@@ -44,14 +60,15 @@ dishwasher
 doctor
 dog groomer
 dominatrix
-drill
 drill sargeant
+drug dealer
 eater
 eric's friend
 escort
 esthetician / waxer
 executioner
 exorcist
+fireman
 flight attendant
 fortune cookie writer
 game developer
@@ -60,29 +77,35 @@ gangster
 gym teacher
 gynaecologist
 gynecologist
+hairdresser
+homeless shelter worker
 horse inseminator
-host
+horse rider
+hotel entertainer
 hotel housekeeper
 housewife
 hunter
 ice cream maker
 impersonator
-intern
 inventor
 jedi
+jesus
 king
 larper
 lawyer
+lead guitarist
+library assistant
 live action role player
 mad scientist
 maggot farmer
 magician
-mailman
 masseuse
+meals on wheels driver
 meat processor
 mechanic
 meme artist
 mime
+minister of defence
 model
 moderator
 mortician
@@ -90,34 +113,46 @@ motivational speaker
 movie star
 my dad
 my job
+my mum
 nanny
 news anchor
 oil rig worker
+optician
 painter
+paramedic
+pcso
 personal trainer
+pharmacist
 phoenix's roommate
 photographer
 pilot
 pimp
 pirate
+plastic surgeon
 plumber
 police officer
 politician
 pool cleaner
+pope
 porn star
+postman
 president
 priest
+prime minister
 prison officer
 prisoner
 private detective
 proctologist
 professional athlete
 professional handshaker
-professor at uf
+professor
+property developer
 psychic
 queen
 ra
 reality show contestant
+rocket scientist
+roofer
 sandwich artist
 school nurse
 scientist
@@ -132,25 +167,31 @@ slave
 software developer
 speaker
 sperm bank janitor
+stripper
 stunt double
+substitute teacher
 sumo wrestler
 super hero
 super villain
+tailor
 tank driver
 taxi driver
 taxidermist
-tea party
 tea party candidate
 teacher
 telemarketer
 televangelist
 therapist
+tourist guide
 translator
+truck driver
 tsa agent
 un weapons inspector
 underwear specialist
+university student
 used car salesman
 venture capitalist
+waiter
 wet nurse
 window washer
 wine taster
