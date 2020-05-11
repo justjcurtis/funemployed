@@ -62,51 +62,11 @@ body {
     }
 }
 
-@media (min-width:100px) {
-    .swiper-slide.interviewerRoot {
-        font-size: 4vw;
-    }
-}
-
-@media (min-width:360px) {
-    .swiper-slide.interviewerRoot {
-        font-size: 5vw;
-    }
-}
-
-@media (min-width:640px) {
-    .swiper-slide.interviewerRoot {
-        font-size: 1.5vw;
-    }
-}
-
-@media (min-width:100px) {
-    .swiper-slide.interviewer {
-        font-size: 3.5vw;
-    }
-}
-
-@media (min-width:360px) {
-    .swiper-slide.interviewer {
-        font-size: 2.6vw;
-    }
-}
-
-@media (min-width:640px) {
-    .swiper-slide.interviewer {
-        font-size: 1.13vw;
-    }
-}
-
 .cardText>a {
     color: #000;
 }
 
 .swiper-slide.interviewer {
-    background-image: url("../Assets/job.png");
-}
-
-.swiper-slide.interviewerRoot {
     background-image: url("../Assets/job.png");
 }
 
@@ -144,5 +104,8 @@ body {
 }
 
 .cardText {
+    width: 60%;
+}
+.swiper-slide.instruction>.cardText{
     width: 70%;
 }
