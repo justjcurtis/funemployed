@@ -46,19 +46,19 @@ body {
 
 @media (min-width:100px) {
     .swiper-slide {
-        font-size: 4vw;
+        font-size: 3.5vw;
     }
 }
 
 @media (min-width:360px) {
     .swiper-slide {
-        font-size: 3vw;
+        font-size: 2.6vw;
     }
 }
 
 @media (min-width:640px) {
     .swiper-slide {
-        font-size: 1.3vw;
+        font-size: 1.13vw;
     }
 }
 
