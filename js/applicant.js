@@ -20,7 +20,7 @@ const setCardText = (number, text) => {
     let cards = document.getElementsByClassName(`card${number}`)
     for(let i = 0; i < cards.length; i++){
         let card = cards[i];
-        card.innerHTML = text[0].toUpperCase();
+        card.innerHTML = `<div class="cardText">${text[0].toUpperCase()}</div>`;
     }
 }
 
