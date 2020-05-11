@@ -1,7 +1,5 @@
 let traitsInUse = []
 
-var swiper = newSwiper();
-
 const getTrait = () => {
     if (traitsInUse.length < 1) {
         traitsInUse = traits.slice();
@@ -18,17 +16,25 @@ const getTraits = n => {
     return results
 }
 
+const setCardText = (number, text) => {
+    let cards = document.getElementsByClassName(`card${number}`)
+    for(let i = 0; i < cards.length; i++){
+        let card = cards[i];
+        card.innerHTML = text;
+    }
+}
+
 const renderTraits = () => {
     let currentTraits = getTraits(4);
-    document.getElementById("card1").innerHTML = currentTraits[0];
-    document.getElementById("card2").innerHTML = currentTraits[1];
-    document.getElementById("card3").innerHTML = currentTraits[2];
-    document.getElementById("card4").innerHTML = currentTraits[3];
+    for(let i = 0; i< currentTraits.length; i++){
+        setCardText(i+1, currentTraits[i]);
+    }
 }
 
 document.getElementById("newTraits").addEventListener('click', e => {
     renderTraits();
-    swiper.slideTo(0, 500)
 });
 
 renderTraits();
+
+var swiper = newSwiper(0, true, true);

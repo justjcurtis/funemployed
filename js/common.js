@@ -3,10 +3,16 @@ const IsMobile = () =>{
     return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 }
 
-const newSwiper = (initialSlide=0) =>{
+const newSwiper = (initialSlide=0, loop=false, pagination=false) =>{
     return new Swiper('.swiper-container', {
+        loop: loop,
+        grabCursor: true,
         initialSlide: initialSlide,
         centeredSlides: true,
+        pagination: pagination ? {
+          el: '.swiper-pagination',
+          type: 'bullets',
+        }: {},
         breakpoints: {
           // when window width is >= 320px
           320: {
