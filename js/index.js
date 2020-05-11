@@ -1,10 +1,2 @@
-// var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-var w = window.innerWidth;
 
-var swiper = new Swiper('.swiper-container', {
-    slidesPerView: w <= 600 ? 1 : 3,
-    spaceBetween: 30,
-    centeredSlides: true,
-});
-alert(window.innerWidth)
-swiper.slideTo(1, 250);
+var swiper = newSwiper(1);

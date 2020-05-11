@@ -1,12 +1,6 @@
 let traitsInUse = []
-    // var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-var w = window.innerWidth;
 
-var swiper = new Swiper('.swiper-container', {
-    slidesPerView: w <= 600 ? 1 : 3,
-    spaceBetween: 30,
-    centeredSlides: true
-});
+var swiper = newSwiper();
 
 const getTrait = () => {
     if (traitsInUse.length < 1) {
