@@ -12,7 +12,7 @@ const getJob = () => {
 
 const renderJob = () => {
     let job = getJob();
-    document.getElementById("jobCard").innerHTML = job.toUpperCase();
+    document.getElementById("jobCard").innerHTML = job[0].toUpperCase();
 }
 
 document.getElementById("newJob").addEventListener('click', e => {

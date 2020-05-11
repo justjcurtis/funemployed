@@ -1,5 +1,5 @@
 let traitsInUse = []
-
+console.log(traits)
 const getTrait = () => {
     if (traitsInUse.length < 1) {
         traitsInUse = traits.slice();
@@ -20,14 +20,14 @@ const setCardText = (number, text) => {
     let cards = document.getElementsByClassName(`card${number}`)
     for(let i = 0; i < cards.length; i++){
         let card = cards[i];
-        card.innerHTML = text;
+        card.innerHTML = text[0].toUpperCase();
     }
 }
 
 const renderTraits = () => {
     let currentTraits = getTraits(4);
     for(let i = 0; i< currentTraits.length; i++){
-        setCardText(i+1, currentTraits[i].toUpperCase());
+        setCardText(i+1, currentTraits[i]);
     }
 }
 
