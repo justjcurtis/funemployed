@@ -27,7 +27,7 @@ const setCardText = (number, text) => {
 const renderTraits = () => {
     let currentTraits = getTraits(4);
     for(let i = 0; i< currentTraits.length; i++){
-        setCardText(i+1, currentTraits[i]);
+        setCardText(i+1, currentTraits[i].toUpperCase());
     }
 }
 

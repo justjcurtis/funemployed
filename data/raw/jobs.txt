@@ -1,164 +1,159 @@
-A&E nurse
-Demon
-My Job
-Masseuse
-Sergeant
-Butcher
-Cheerleader
-Host
-Live Action Role Player
-Underwear specialist
-Oil rig worker
-Witch
-Construction worker
-Care assistant
-Butler
-Proctologist
-Author
-Professional Athlete
-Chef
-Window washer
-Mailman
-Wet Nurse
-Pool cleaner
-Assistant to the Regional Manager
-Priest
-Black market salesperson
-Esthetician / Waxer
-Wine taster
-Televangelist
-Taxi Driver
-Coal miner
-Psychic
-Maggot farmer
-Moderator
-Game Show Host
-Dominatrix
-Phoenix's Roommate
-Eric's friend
-Secret agent
-Buller
-Gynaecologist
-Politician
-Tank driver
-Jedi
-Venture Capitalist
-Eater
-UN Weapons Inspector
-Counsellor
-Candidate
-Bounty Hunter
-School Nurse
-Teacher
-Sewer cleaner
-Archaeologist
-Astronaut
-Reality Show Contestant
-Tea Party Candidate
-Queen
-Magician
-Escort
-Professional handshaker
-Altar boy
-Game developer
-Flight Attendant
-Lawyer
-Police officer
-Chimney sweep
-King
-Impersonator
-Mad Scientist
-Barista
-Personal Trainer
-Assassin
-Dinosaur supervisor
-Sumo wrestler
-Community manager
-Super Villain
-Meme artist
-Drill
-Model
-Mechanic
-Meat processor
-Translator
-Exorcist
-Competitive Eater
-Telemarketer
-Taxidermist
-Doctor
-Tea Party
-My Dad
-Gym Teacher
-Painter
-Pirate
-Therapist
-Bartender
-Child Actor
-Ice Cream Maker
-Motivational Speaker
-Pimp
-Intern
-Nanny
-Hunter
-Sandwich artist
-Chicken sexer
-Pilot
-Auctioneer
-Secret Agent
-Gangster
-Horse inseminator
-President
-B-Movie Actor
-Drill Sargeant
-Cat behaviour consultant
-Mime
-News Anchor
-Housewife
-Stunt Double
-Celebrity Impersonator
-Security guard
-Game show host
-Dog groomer
-Professor at UF
-Hotel housekeeper
-Used Car Salesman
-Prison officer
-TSA Agent
-Software developer
-Gynecologist
-Fortune Cookie Writer
-Private detective
-Scientist
-A god
-Plumber
-Photographer
-Singer
-Movie star
-Porn Star
-Beard specialist
-Bouncer
-Reality show contestant
-Private Detective
-Sperm bank janitor
-Speaker
-Shaman
-Dishwasher
-Actor
-Super Hero
-Artist
-LARPer
-Executioner
-World Record Holder
-Dictator
-RA
-World overlord
-Mortician
-Bachelor
-Diplomatic translator
-Scrap yard worker
-Slave
-Inventor
-Altar Boy
-Architect
-Balloon artist
-Prisoner
+a god
+a&e nurse
+actor
+altar boy
+archaeologist
+architect
+artist
+assassin
+assistant to the regional manager
+astronaut
+auctioneer
+author
+b-movie actor
+bachelor
+balloon artist
+barista
+bartender
+beard specialist
+black market salesperson
+bouncer
+bounty hunter
+buller
+butcher
+butler
+candidate
+care assistant
+cat behaviour consultant
+celebrity impersonator
+cheerleader
+chef
+chicken sexer
+child actor
+chimney sweep
+coal miner
+community manager
+competitive eater
+construction worker
+counsellor
+demon
+dictator
+dinosaur supervisor
+diplomatic translator
+dishwasher
+doctor
+dog groomer
+dominatrix
+drill
+drill sargeant
+eater
+eric's friend
+escort
+esthetician / waxer
+executioner
+exorcist
+flight attendant
+fortune cookie writer
+game developer
+game show host
+gangster
+gym teacher
+gynaecologist
+gynecologist
+horse inseminator
+host
+hotel housekeeper
+housewife
+hunter
+ice cream maker
+impersonator
+intern
+inventor
+jedi
+king
+larper
+lawyer
+live action role player
+mad scientist
+maggot farmer
+magician
+mailman
+masseuse
+meat processor
+mechanic
+meme artist
+mime
+model
+moderator
+mortician
+motivational speaker
+movie star
+my dad
+my job
+nanny
+news anchor
+oil rig worker
+painter
+personal trainer
+phoenix's roommate
+photographer
+pilot
+pimp
+pirate
+plumber
+police officer
+politician
+pool cleaner
+porn star
+president
+priest
+prison officer
+prisoner
+private detective
+proctologist
+professional athlete
+professional handshaker
+professor at uf
+psychic
+queen
+ra
+reality show contestant
+sandwich artist
+school nurse
+scientist
+scrap yard worker
+secret agent
+security guard
+sergeant
+sewer cleaner
+shaman
+singer
+slave
+software developer
+speaker
+sperm bank janitor
+stunt double
+sumo wrestler
+super hero
+super villain
+tank driver
+taxi driver
+taxidermist
+tea party
+tea party candidate
+teacher
+telemarketer
+televangelist
+therapist
+translator
+tsa agent
+un weapons inspector
+underwear specialist
+used car salesman
+venture capitalist
+wet nurse
+window washer
+wine taster
+witch
+world overlord
+world record holder
