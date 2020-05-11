@@ -56,6 +56,10 @@ body {
     background-image: url("../Assets/qual.png");
 }
 
+.swiper-slide.instruction {
+    background-image: url("../Assets/instruction.png");
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -74,4 +78,8 @@ body {
     margin-top: 10px;
     margin-right: 2.5px;
     margin-left: 2.5px;
+}
+
+.instructionText {
+    width: 80%;
 }
