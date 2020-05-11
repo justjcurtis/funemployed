@@ -16,7 +16,7 @@ const renderJob = () => {
 }
 
 document.getElementById("newJob").addEventListener('click', e => {
-    renderTraits();
+    renderJob();
 });
 
 renderJob();
