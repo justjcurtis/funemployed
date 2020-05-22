@@ -25,7 +25,7 @@ const newSwiper = (initialSlide=0, loop=false, pagination=false) =>{
             spaceBetween: 20
           },
           // when window width is >= 640px
-          650: {
+          800: {
             slidesPerView: 3,
             spaceBetween: 30
           }
