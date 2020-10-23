@@ -1,5 +1,4 @@
 let traitsInUse = []
-console.log(traits)
 const getTrait = () => {
     if (traitsInUse.length < 1) {
         traitsInUse = traits.slice();
